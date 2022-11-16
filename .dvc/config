@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+['remote "origin"']
+    url = https://dagshub.com/borahparinita123/Test_CI_dvc_mlflow.dvc
